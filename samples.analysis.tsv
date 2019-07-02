@@ -1,0 +1,5 @@
+Tumor	Normal	Tumor_Bam	Tumor_Bai	Normal_Bam	Normal_Bai
+Tumor1	Normal1	input/alignments/Tumor1.dd.ra.rc.bam	input/alignments/Tumor1.dd.ra.rc.bam.bai	input/alignments/Normal1.dd.ra.rc.bam	input/alignments/Normal1.dd.ra.rc.bam.bai
+Tumor2	Normal2	input/alignments/Tumor2.dd.ra.rc.bam	input/alignments/Tumor2.dd.ra.rc.bam.bai	input/alignments/Normal2.dd.ra.rc.bam	input/alignments/Normal2.dd.ra.rc.bam.bai
+Tumor3	Normal3	input/alignments/Tumor3.dd.ra.rc.bam	input/alignments/Tumor3.dd.ra.rc.bam.bai	input/alignments/Normal3.dd.ra.rc.bam	input/alignments/Normal3.dd.ra.rc.bam.bai
+Tumor4	Normal4	input/alignments/Tumor4.dd.ra.rc.bam	input/alignments/Tumor4.dd.ra.rc.bam.bai	input/alignments/Normal4.dd.ra.rc.bam	input/alignments/Normal4.dd.ra.rc.bam.bai
