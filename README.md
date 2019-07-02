@@ -14,6 +14,8 @@ In order to use this pipeline on your system you will need to update the file pa
 
 Singularity and Docker container recipes are included in the `containers` directory.
 
+Paths to input .bam files for tumor and normal samples are read from the file `samples.analysis.tsv`.
+
 Once correctly configured, the pipeline can be run with:
 
 ```
